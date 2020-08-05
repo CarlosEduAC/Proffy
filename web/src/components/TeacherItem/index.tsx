@@ -9,26 +9,25 @@ function TeacherItem() {
     <article className="teacher-item">
       <header>
         <img
-          src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4"
-          alt="Diego Fernandes"
-        />
+          src="https://avatars3.githubusercontent.com/u/39505695?s=460&u=cc77bfc84338eb337b9376d6af46ba73ce374fc7&v=4"
+          alt="Carlos Eduardo Cardoso"
+        /> 
         <div>
-          <strong>Diogo Fernandes</strong>
-          <span>Quimica</span>
+          <strong>Carlos Eduardo Cardoso</strong>
+          <span>Matemática</span>
         </div>
       </header>
+
       <p>
-        Aulas de Matemática bem estruturadas e expositiva.
+        Aulas de Matemática bem estruturadas e prática.
         <br /> <br />
-        Estude para o ENEM e Vestibulares no Melhor Cursinho com o Melhor Preço.
-        Pague em até 12x. ENEM com a melhor preparação. Parcelas por menos de R$
-        15 reais.
+        Acabe com o seu medo pela matemática com aulas super didáticas e com um preço camarada. 
       </p>
 
       <footer>
         <p>
-          Preço/hora
-          <strong>R$ 15,00</strong>
+          Preço/Hora
+          <strong>R$ 55,00</strong>
         </p>
         <button type="button">
           <img src={whatsappIcon} alt="Whatsapp" />

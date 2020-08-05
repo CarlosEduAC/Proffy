@@ -6,7 +6,7 @@ import TeacherItem from "../../components/TeacherItem";
 
 export default function TeacherList() {
   return (
-    <div className="container" id="page-teacher-list">
+    <div id="page-teacher-list" className="container">
       <PageHeader title="Esses são os Proffys disponíveis.">
         <form id="search-teachers">
           <div className="input-block">
@@ -23,7 +23,7 @@ export default function TeacherList() {
           </div>
         </form>
       </PageHeader>
-
+      
       <main>
         <TeacherItem />
         <TeacherItem />
